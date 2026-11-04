@@ -112,15 +112,15 @@ The optional AI layer needs `ANTHROPIC_API_KEY` set. Without it, everything runs
 
 **Scenario B: unsafe exclusion flagged, narrow candidate supported**
 
-![Scenario B](Scenario_B.jpg)
+![Scenario B](Scenario%20B.jpg)
 
 **Noisy rules ranked deterministically**
 
-![Noisy rules ranked](Noisy_rules_ranked.jpg)
+![Noisy rules ranked](Noisy%20rules%20ranked.jpg)
 
 **Drilldown with traceable source evidence**
 
-![Drilldown with source evidence](Drilldown_with_source_evidence.jpg)
+![Drilldown with source evidence](Drilldown%20with%20source%20evidence.jpg)
 
 **JSON/CSV export**
 
